@@ -1,4 +1,4 @@
-# Audio Processing using Pydub on Google Colab
+# Audio Processing using Pydub
 This Google Colab notebook contains Python code for processing audio files using the Pydub library. The code requires the user to add the audio directory in the audio_dir variable and run all the cells in the notebook. The user can change the number of audio files required in the dataset and the minimum and maximum number of speakers in an audio file.
 
 ## Requirements
